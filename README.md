@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Software Team Lead and Flutter developer at IdealChip
-- 👨‍💻 As a CIS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Mobile developer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Dart, and Flutter related to mobile development.
 
 
