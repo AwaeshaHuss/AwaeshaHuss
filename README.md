@@ -19,7 +19,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/hussein-al-awaisheh/" target="_blank"><img src="https://img.shields.io/badge/-Hussein%20Awaesha-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@h.awaesha97" target="_blank"><img src="https://img.shields.io/badge/-H%20Awaisha-0077B5?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+<a href="https://medium.com/@h.awaesha97" target="_blank"><img src="https://img.shields.io/badge/-H%20Awaisha-0077B5?style=for-the-badge&logo=Medium&logoColor=white&color=black"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=563D7C)&nbsp;
